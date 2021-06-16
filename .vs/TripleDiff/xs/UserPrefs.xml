@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{0397832B-13F6-4101-ADF4-363215272ADF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Styles.xaml">
-    <Files>
-      <File FileName="Diff.fs" Line="8" Column="19" />
-      <File FileName="Shell.fs" Line="21" Column="62" />
-      <File FileName="Styles.xaml" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TripleDiff" expanded="True">
             <Node name="TripleDiff" expanded="True">
-              <Node name="Styles.xaml" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Diff.fs" selected="True" />
             </Node>
           </Node>
         </State>
