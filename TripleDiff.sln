@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TripleDiff", "TripleDiff.fsproj", "{0397832B-13F6-4101-ADF4-363215272ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0397832B-13F6-4101-ADF4-363215272ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0397832B-13F6-4101-ADF4-363215272ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0397832B-13F6-4101-ADF4-363215272ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0397832B-13F6-4101-ADF4-363215272ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA67E6F-6899-400C-B5DE-0F282198431D}
+	EndGlobalSection
+EndGlobal
